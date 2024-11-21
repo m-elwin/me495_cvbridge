@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='elwin',
+    maintainer='Matthew Elwin',
     maintainer_email='elwin@northwestern.edu',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='Demonstration of ROS 2 cv_bridge',
+    license='GPLv3',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
